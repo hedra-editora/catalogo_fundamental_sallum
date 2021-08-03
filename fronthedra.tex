@@ -1,0 +1,90 @@
+\AtBeginDocument{%
+\begingroup\pagestyle{empty}\parindent0pt
+
+
+\def\thepage{Front cover}
+\begin{textblock*}{5.625in}(0pt,0pt)%
+\vspace*{-3cm}
+\hspace*{-1.5cm}\includegraphics*[width=162mm]{EDLAB}
+\end{textblock*}
+
+	%\titulagemfront{}
+%\vfill
+%\clearpage
+%{\Formular{\Huge{\titulagemfront{}}}}
+%\vspace{11.25mm}
+
+
+%\LARGE{\autor}
+\vfill
+\clearpage
+
+%% Créditos ------------------------------------------------------
+%\raggedright
+%\clearpage
+
+
+\endgroup
+\pagebreak
+%% Front ---------------------------------------------------------
+% Titulo
+%\hspace*{-.7cm}
+
+%{\Formular{\Huge{\titulagem}}}
+%\vspace{11.25mm}
+
+%{\LARGE{\autor} \par}%\vspace{1.5ex}}
+%\vspace{6cm} %9.3cm
+%\ifdef{\organizador}{{\small {\organizador} (\textit{organização} e \textit{tradução})} \par}{}
+%\ifdef{\introdutor}{{\small {\introdutor} (\textit{prefácio})} \par}{}\vspace{8.5mm}
+%\vspace{3.5cm}
+%{\Formular{\ifdef{\tradutor}{{\small {\tradutor} ({\slsc{tradução}})}\par}{}}}
+
+%{{\footnotesize{} \ifdef{\numeroedicao}{\numeroedicao}{1}ª edição} \par}
+%logos
+%\vfill
+%\normalsize
+%\centering\includegraphics{logos.pdf}
+%\includegraphics[width=.4\textwidth,trim=0 0 25 0]{logo.jpg}\\\smallskip
+%\par\clearpage\endgroup
+% Resumo -------------------------------------------------------
+%\begingroup \footnotesize \parindent0pt \parskip 5pt \thispagestyle{empty} \vspace*{-0.5\textheight}\mbox{} \vfill
+%\baselineskip=.92\baselineskip
+%\IfFileExists{PRETAS.tex}{\input{PRETAS}}{% 
+%\ifdef{\resumo}{\resumo\par}{}
+%\ifdef{\sobreobra}{\sobreobra}{}
+%\ifdef{\sobreautor}{\mbox{}\vspace{4pt}\newline\sobreautor}{}
+%\ifdef{\sobretradutor}{\newline\sobretradutor}{\relax}
+%\ifdef{\sobreorganizador}{\vspace{4pt}\newline\sobreorganizador}{\relax}\par}
+%\thispagestyle{empty} \endgroup
+%\ifdefvoid{\sobreautor}{}{\pagebreak\ifodd\thepage\paginabranca\fi}
+% Sumário -------------------------------------------------------
+
+%\sumario{}
+%\IfFileExists{INTRO.tex}{\include{INTRO}}
+
+%\IfFileExists{TEXTO.tex}{\mbox{}\include{TEXTO}}
+%\part[{{\def\break{}\titulo}}]{\titulo}
+} % fim do AtBeginDocument
+
+% Finais -------------------------------------------------------
+\AtEndDocument{%
+  %\publicidade
+
+
+\pagebreak\ifodd\thepage\paginabranca\fi
+
+\mbox{}\vfill\small\thispagestyle{empty}
+\begin{center}
+\begin{minipage}{.8\textwidth}
+\centering\tiny\noindent{}Adverte-se aos curiosos que se imprimiu este catálogo \ifdef{\grafica}{na gráfica \grafica}{em nossas oficinas}, 
+em \today \ifdef{\papelmiolo}{em papel \papelmiolo}, em tipologia Formular, com diversos sofwares livres, 
+entre eles, Lua\LaTeX, git \& ruby. \ifdef{\RevisionInfo{}}{\par(v.\,\RevisionInfo)}{}\par \begin{center}\normalsize\adforn{64}\end{center}
+\end{minipage}
+\end{center}
+}
+
+
+
+%\end{minipage}
+%\end{center}
