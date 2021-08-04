@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  3 AUG 2021 23:39
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.4.7)  3 AUG 2021 23:58
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1819,110 +1819,110 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--115
 [9]
 File: ./grid/firmina.png Graphic file (type png)
 <use ./grid/firmina.png>
-Package luatex.def Info: ./grid/firmina.png  used on input line 120.
+Package luatex.def Info: ./grid/firmina.png  used on input line 121.
 (luatex.def)             Requested size: 210.55038pt x 210.55023pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 
  []
 
 [10]
 File: ./grid/diario.png Graphic file (type png)
 <use ./grid/diario.png>
-Package luatex.def Info: ./grid/diario.png  used on input line 146.
+Package luatex.def Info: ./grid/diario.png  used on input line 147.
 (luatex.def)             Requested size: 210.55038pt x 210.55023pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
  []
 
 [11]
 File: ./grid/brown.png Graphic file (type png)
 <use ./grid/brown.png>
-Package luatex.def Info: ./grid/brown.png  used on input line 172.
+Package luatex.def Info: ./grid/brown.png  used on input line 174.
 (luatex.def)             Requested size: 210.55038pt x 210.55023pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--194
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
 
  []
 
 [12]
 File: ./grid/harriet.png Graphic file (type png)
 <use ./grid/harriet.png>
-Package luatex.def Info: ./grid/harriet.png  used on input line 200.
+Package luatex.def Info: ./grid/harriet.png  used on input line 202.
 (luatex.def)             Requested size: 210.55038pt x 210.55023pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--222
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
 
  []
 
 [13]
 File: ./grid/nascidos.png Graphic file (type png)
 <use ./grid/nascidos.png>
-Package luatex.def Info: ./grid/nascidos.png  used on input line 227.
+Package luatex.def Info: ./grid/nascidos.png  used on input line 230.
 (luatex.def)             Requested size: 210.55038pt x 210.55023pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
 
  []
 
 [14]
 File: ./grid/robinson.png Graphic file (type png)
 <use ./grid/robinson.png>
-Package luatex.def Info: ./grid/robinson.png  used on input line 255.
+Package luatex.def Info: ./grid/robinson.png  used on input line 258.
 (luatex.def)             Requested size: 210.55038pt x 210.55023pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
 
  []
 
 [15]
 File: ./grid/ivan.png Graphic file (type png)
 <use ./grid/ivan.png>
-Package luatex.def Info: ./grid/ivan.png  used on input line 281.
+Package luatex.def Info: ./grid/ivan.png  used on input line 285.
 (luatex.def)             Requested size: 210.55038pt x 210.55023pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
+Underfull \hbox (badness 10000) in paragraph at lines 304--305
 
  []
 
 [16]
 File: ./grid/stoker.png Graphic file (type png)
 <use ./grid/stoker.png>
-Package luatex.def Info: ./grid/stoker.png  used on input line 307.
+Package luatex.def Info: ./grid/stoker.png  used on input line 311.
 (luatex.def)             Requested size: 210.55038pt x 210.55023pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 327--328
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
 
  []
 
 [17]
 File: ./grid/medico.png Graphic file (type png)
 <use ./grid/medico.png>
-Package luatex.def Info: ./grid/medico.png  used on input line 334.
+Package luatex.def Info: ./grid/medico.png  used on input line 338.
 (luatex.def)             Requested size: 210.55038pt x 210.55023pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
 
  []
 
 [18]
 File: ./grid/rashomon.png Graphic file (type png)
 <use ./grid/rashomon.png>
-Package luatex.def Info: ./grid/rashomon.png  used on input line 362.
+Package luatex.def Info: ./grid/rashomon.png  used on input line 366.
 (luatex.def)             Requested size: 210.55038pt x 210.55023pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--382
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
 
  []
 
 [19]
 File: ./grid/safo.png Graphic file (type png)
 <use ./grid/safo.png>
-Package luatex.def Info: ./grid/safo.png  used on input line 389.
+Package luatex.def Info: ./grid/safo.png  used on input line 393.
 (luatex.def)             Requested size: 210.55038pt x 210.55023pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 409--410
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
 
  []
 
@@ -1936,13 +1936,13 @@ AED: lastpage setting LastPage
 
 Here is how much of LuaTeX's memory you used:
  20069 strings out of 480992
- 305223,953878 words of node,token memory allocated
- 223708 words of node memory still in use:
-   5 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 penalty, 28330 glyph, 10581 attri
-bute, 205 glue_spec, 1513 attribute_list, 3 shape, 2 write nodes
-   avail lists: 1:3,2:2679,3:231,4:117,5:294,6:49,7:2380,8:2,9:367,10:26,11:144
+ 305230,953878 words of node,token memory allocated
+ 223466 words of node memory still in use:
+   5 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 penalty, 28300 glyph, 10567 attri
+bute, 205 glue_spec, 1511 attribute_list, 3 shape, 2 write nodes
+   avail lists: 1:3,2:2679,3:231,4:117,5:295,6:49,7:2380,8:2,9:367,10:26,11:148
  36354 multiletter control sequences out of 65536+600000
- 138 fonts using 23989475 bytes
+ 138 fonts using 23989555 bytes
  52i,12n,83p,1369b,598s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</Us
 ers/suzana/Library/Fonts/Formular-Italic.otf></Library/Fonts/Times New Roman.ttf
@@ -1951,7 +1951,7 @@ mular-Regular.otf></usr/local/texlive/2020/texmf-dist/fonts/opentype/public/lm/l
 mmono8-regular.otf></usr/local/texlive/2020/texmf-dist/fonts/type1/arkandis/adfo
 rn/OrnementsADF.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfo
 nts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (32 pages, 19228750 bytes).
+Output written on LIVRO.pdf (32 pages, 7726340 bytes).
 
 PDF statistics: 164 PDF objects out of 1000 (max. 8388607)
  97 compressed objects within 1 object stream
